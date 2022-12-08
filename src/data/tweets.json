@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Sanjay Kumar",
+        "age": "26",
+        "sal": "20k",
+        "depart":"Management"
+    },
+    {
+        "id": 2,
+        "name": "deeshu bhatt",
+        "age": "28",
+        "sal": "35k",
+        "depart":"IT"
+    },
+    {
+        "id":3,
+        "name":"himanshu saksena",
+        "age": "26",
+        "sal": "25k",
+        "depart": "IT"
+    },
+    {
+        "id":4,
+        "name":"Yogendra Srivastav",
+        "age": "29",
+        "sal": "30k",
+        "depart":"Sales"
+    },
+    {
+        "id":5,
+        "name":"Neel Kukreti",
+        "age": "22",
+        "sal": "60k",
+        "depart":"Management"
+    },
+    {
+        "id":6,
+        "name":"Prashant sharma",
+        "age": "21",
+        "sal": "15k",
+        "depart":"Sales"
+    },
+    {
+        "id": 7,
+        "name":"Divya Kumari",
+        "age":"15",
+        "sal": "19k",
+        "depart":"Management"
+    }
+]
